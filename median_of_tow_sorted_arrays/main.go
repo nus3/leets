@@ -6,6 +6,7 @@ import (
 )
 
 func findMedianSortedArrays(nums1 []int, nums2 []int) float64 {
+	// TODO: 計算量がすくなるなる方のアルゴリズム(むずい方)でといてみる
 	arr := append(nums1, nums2...)
 	sort.Ints(arr)
 	count := len(arr)
