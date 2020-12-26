@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="143469d9-70c9-4717-b5b1-065495e8e7bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/length_of_longest_substring/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/median_of_tow_sorted_arrays/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
